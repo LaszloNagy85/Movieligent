@@ -2,7 +2,8 @@
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - In this app, you can browse movies, and save them to your favourites list.
-- https://www.themoviedb.org/ is used as data source for movies.
+- https://www.themoviedb.org is used as data source for movies.
+- The app is available online at: https://movieligent.netlify.app
 - To run the app locally, see options below.
 
 ---
